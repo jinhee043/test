@@ -4,7 +4,7 @@ let globalName = 'globalName';
 {
     let name = 'Jinhee';
     console.log(name);
-     name = 'Hi';
+    name = 'Hi';
     console.log(name);
     console.log(globalName);
 }
